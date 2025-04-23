@@ -16,7 +16,7 @@ Specjalizuję się w nowoczesnej dokumentacji technicznej opartej na:
 🔗 Portfolio / demo:  
 [👉 Przykładowa dokumentacja online](https://docswithkamil.github.io/demo-docs/)
 
-💬 Skontaktuj się: [useme.com/profil/docswithkamil]([https://www.useme.com/...](https://useme.com/pl/roles/contractor/docswithkamil,415225/)
+💬 Skontaktuj się: [useme.com/profil/docswithkamil]([https://useme.com/pl/roles/contractor/docswithkamil,415225/]
 
 ---
 
