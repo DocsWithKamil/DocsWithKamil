@@ -20,4 +20,4 @@ Specjalizuję się w nowoczesnej dokumentacji technicznej opartej na:
 
 ---
 
-> Szukasz dokumentacji, która działa, wygląda i się czyta? Napisz do mnie.
+# Szukasz dokumentacji, która działa, wygląda i się czyta? Napisz do mnie.
