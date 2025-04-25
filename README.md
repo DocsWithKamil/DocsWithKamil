@@ -14,9 +14,9 @@ Specjalizuję się w nowoczesnej dokumentacji technicznej opartej na:
 `MkDocs`, `Markdown`, `Mermaid`, `Git`, `Draw.io`, `VS Code`
 
 🔗 Portfolio / demo:  
-[👉 Przykładowa dokumentacja online](https://docswithkamil.github.io/demo-docs/)
+[👉 Przykładowa dokumentacja online](https://docloom.github.io/demo-docs/)
 
-💬 Skontaktuj się: [useme.com/profil/docswithkamil](https://useme.com/pl/roles/contractor/docswithkamil,415225/)
+💬 Skontaktuj się: [useme.com/profil/docloom](https://useme.com/pl/roles/contractor/docswithkamil,415225/)
 
 ---
 
